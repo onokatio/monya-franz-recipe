@@ -1,0 +1,12 @@
+{
+  "id": "monya",
+  "name": "もにゃ",
+  "version": "9.9.9",
+  "description": "暗号通貨ウォレット もにゃ",
+  "main": "index.js",
+  "author": "onokatio <onokatio@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://monya-wallet.github.io/wallet/"
+  }
+}
